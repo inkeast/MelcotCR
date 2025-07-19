@@ -1,5 +1,5 @@
 # Supplementary Material
-This replication package contains supplementary material for the paper "meCoTCR: Improving Code Review Via Maximum-Entropy Chain-of-Thought Reasoning". The package is organized as follows:
+This replication package contains supplementary material for the paper "Fine-Tuning LLMs to Analyze Multiple Dimensions of Code Review: A Maximum Entropy Regulated Long Chain-of-Thought Approach". The package is organized as follows:
 
 * `./Data` The datasets used in this paper
   * `./Data/TrainDataset.parquet` The MEFT training dataset used in the paper.
